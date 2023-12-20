@@ -6,7 +6,7 @@ import path from 'path';
 import * as socketio from 'socket.io';
 import routes from './routes';
 
-const uri = "mongodb+srv://tomalves:1IiHkRnX5DSly6aT@cluster0.nfqjfyn.mongodb.net/?retryWrites=true&w=majority";
+const uri = "";
 
 const app = express()
 
